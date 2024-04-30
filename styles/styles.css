@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #171821;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+
+    
+}
+
+p {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+.container__pai {
+    display: flex;
+    align-items: flex-start;
+}
+
+.hidden__side__bar {
+
+}
+
+.hidden__side__bar__tools {
+    color: #d2d2d2;
+}
+
+.search__bar {
+    background-color: #21222d;
+    border: 1px solid #21222d;
+    padding: 504px 44px;
+    border-radius: 11px;
+    
+}
+
+.search__bar__type {
+    color: #d2d2d2;
+}
+
+.hidden__notifications {
+
+}
+
+.hidden__profile {
+
+}
+
+.today__sale {
+    background-color: #21222d;
+    border: 1px solid #21222d;
+    padding: 504px 201px;
+    border-radius: 10px;
+}
+
+.today__sale__subtitle {
+    color: #FFFFFF;
+}
+
+.today__sale__summary {
+    color: #A0A0A0;
+}
+
+.today__sale__total__sales {
+    background-color: #171821;
+    border: 1px solid #171821;
+    padding: 104px 107px;
+    border-radius: 10px;
+}
+
+.today__sale__yesterday {
+    color: #FEB95A;
+}
+
+.total__order {
+    color: #d2d2d2;
+}
+
+.product__sold {
+    color: #d2d2d2;
+}
+
+.new__customer{
+    color: #d2d2d2;
+}
+
+.level {
+    color: #d2d2d2;
+}
+
+.top__products {
+    color: #d2d2d2;
+}
+
+.customer__fulfilment {
+    color: #d2d2d2;
+}
+
+.earnings {
+    color: #d2d2d2;
+}
+
+.visitor__insights {
+    color: #d2d2d2;
+}
